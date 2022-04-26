@@ -1,0 +1,7 @@
+ipython
+aiosqlite
+typer
+fastapi
+black
+pylint
+isort
